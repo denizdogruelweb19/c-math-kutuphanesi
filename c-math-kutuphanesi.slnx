@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="c-math-kutuphanesi/c-math-kutuphanesi.vcxproj" />
+  <Project Path="c-mathkutuphanesi-ornek/c-mathkutuphanesi-ornek.vcxproj" />
+  <Project Path="else-if-2/else-if-2.vcxproj" />
+  <Project Path="if-else/if-else.vcxproj" />
+</Solution>

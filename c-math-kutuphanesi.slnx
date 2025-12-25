@@ -7,4 +7,5 @@
   <Project Path="c-mathkutuphanesi-ornek/c-mathkutuphanesi-ornek.vcxproj" />
   <Project Path="else-if-2/else-if-2.vcxproj" />
   <Project Path="if-else/if-else.vcxproj" />
+  <Project Path="kullanicigirisi/kullanicigirisi.vcxproj" />
 </Solution>

@@ -8,4 +8,5 @@
   <Project Path="else-if-2/else-if-2.vcxproj" />
   <Project Path="if-else/if-else.vcxproj" />
   <Project Path="kullanicigirisi/kullanicigirisi.vcxproj" />
+  <Project Path="switch-case/switch-case.vcxproj" />
 </Solution>
